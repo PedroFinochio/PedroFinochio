@@ -1,6 +1,6 @@
 ### Opa, eu sou o Pedro Finochio ✌🏻
 
-Atualmente cursando o 2º período de Ciência da Computação na Universidade Federal de Alfenas.
+Atualmente cursando o 3º período de Ciência da Computação na Universidade Federal de Alfenas.
 
 ![Pedro Finochio GitHub stats](https://github-readme-stats.vercel.app/api?username=PedroFinochio&show_icons=true&theme=dracula) 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PedroFinochio&layout=compact&theme=dracula)
