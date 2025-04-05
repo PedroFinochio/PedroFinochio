@@ -18,6 +18,8 @@
 
 ## 🚀 Tecnologias e Ferramentas  
 
+### 🖥️ **Linguagens de Programação**  
+
 <div style="display: flex; gap: 10px;">
     <img alt="C" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
     <img alt="C++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
@@ -26,19 +28,19 @@
     <img alt="Prolog" src="https://img.shields.io/badge/Prolog-FF0000?style=for-the-badge&logo=prolog&logoColor=white">
 </div>  
 
-### 💻 Outras Ferramentas  
-- 🛠 **Git & GitHub**  
-- 🔹 **Linux (Zsh, Bash)**  
-- 📝 **VS Code, IntelliJ IDEA, GHCi**  
-- 📊 **Markdown, LaTeX**  
+### 🔧 **Ferramentas e Ambientes**  
 
----
-
-## 📂 Repositórios em Destaque  
-
-🔹 **[Programação Orientada a Objetos com Java](#)** → Teoria, exercícios e projetos práticos.  
-🔹 **[Programação Funcional com Haskell](#)** → Conceitos e desafios para reforçar o aprendizado.  
-🔹 **[Programação Lógica com Prolog](#)** → Problemas e exercícios aplicados à Programação Lógica.  
+<div>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
+  <img src="https://img.shields.io/badge/Zsh-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white">
+  <img src="https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white">
+  <img src="https://img.shields.io/badge/GHCi-5D4F85?style=for-the-badge&logo=haskell&logoColor=white">
+  <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white">
+  <img src="https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white">
+</div>  
 
 ---
 
@@ -50,9 +52,6 @@
   </a>
   <a href="mailto:pedro.finochio@sou.unifal-mg.edu.br">
     <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white">
-  </a>
-  <a href="https://www.linkedin.com/in/seu-linkedin/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
 </div>  
 
