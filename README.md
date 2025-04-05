@@ -31,6 +31,7 @@
 ### 🔧 **Ferramentas e Ambientes**  
 
 <div>
+  <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
   <img src="https://img.shields.io/badge/Zsh-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
@@ -62,15 +63,3 @@
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=PedroFinochio&theme=dracula&margin-w=15&margin-h=15&no-frame=true" />
 </div>
-
----
-
-## 🎯 Status Atual  
-
-- 🔭 Atualmente estudando **Java, Haskell e Prolog**.  
-- 📚 Aprimorando conceitos de **Estruturas de Dados e Algoritmos**.  
-- 💡 Buscando aprender mais sobre **Sistemas Distribuídos e Computação Paralela**.  
-
----
-
-⭐ **Se gostou do conteúdo, deixe uma estrela nos repositórios!** 🚀  
