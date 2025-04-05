@@ -1,8 +1,7 @@
 <h1 align="center">Opa, eu sou o Pedro Finochio ✌🏻</h1>  
 
 <p align="center">
-  <strong>🎓 3º período de Ciência da Computação na Universidade Federal de Alfenas.</strong><br>
-  Apaixonado por tecnologia e sempre buscando aprender algo novo! 🚀  
+  <strong>🎓 3º período de Ciência da Computação na Universidade Federal de Alfenas.</strong><br>  
 </p>
 
 ---
@@ -55,11 +54,3 @@
     <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
 </div>  
-
----
-
-## 🏆 Contribuições  
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=PedroFinochio&theme=dracula&margin-w=15&margin-h=15&no-frame=true" />
-</div>
