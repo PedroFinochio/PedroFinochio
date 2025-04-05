@@ -8,6 +8,13 @@ Atualmente cursando o 3º período de Ciência da Computação na Universidade F
 <div style="display: inline-block;">
     <img align="center" alt="C" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
     <img align="center" alt="C++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
+    <div style="display: inline-block;">
+    <img align="center" alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
+    <img align="center" alt="Haskell" src="https://img.shields.io/badge/Haskell-5D4F85?style=for-the-badge&logo=haskell&logoColor=white">
+    <img align="center" alt="Prolog" src="https://img.shields.io/badge/Prolog-FF0000?style=for-the-badge&logo=prolog&logoColor=white">
+</div>
+
+    
 </div>
 
 ## 
