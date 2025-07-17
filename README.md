@@ -1,7 +1,7 @@
 <h1 align="center">Opa, eu sou o Pedro Finochio ✌🏻</h1>  
 
 <p align="center">
-  <strong>🎓 3º período de Ciência da Computação na Universidade Federal de Alfenas.</strong><br>  
+  <strong>🎓 4º período de Ciência da Computação na Universidade Federal de Alfenas.</strong><br>  
 </p>
 
 ---
