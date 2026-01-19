@@ -1,4 +1,9 @@
 <h1 align="center">Hi 👋, I'm Pedro</h1>
+
+<p align="center">
+  <strong><code>Interested in Backend Development</code></strong>
+</p>
+
 <h3 align="center">
   I’m currently studying Computer Science at the Federal University of Alfenas (5th semester).
 </h3>
@@ -6,13 +11,11 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://www.linkedin.com/in/pedro-augusto-57532a214/" target="_blank">
-    <img
-      align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-      alt="LinkedIn"
-      height="30"
-      width="40"
-    />
+    <img align="center"
+         src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
+         alt="LinkedIn"
+         height="30"
+         width="40" />
   </a>
 </p>
 
@@ -42,17 +45,13 @@
 </p>
 
 <p>
-  <img
-    align="left"
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=pedrofinochio&show_icons=true&theme=dark&locale=en&layout=compact"
-    alt="Top Languages"
-  />
+  <img align="left"
+       src="https://github-readme-stats.vercel.app/api/top-langs?username=pedrofinochio&show_icons=true&theme=dark&locale=en&layout=compact"
+       alt="Top Languages" />
 </p>
 
 <p>
-  <img
-    align="center"
-    src="https://github-readme-stats.vercel.app/api?username=pedrofinochio&show_icons=true&theme=dark&locale=en"
-    alt="GitHub Stats"
-  />
+  <img align="center"
+       src="https://github-readme-stats.vercel.app/api?username=pedrofinochio&show_icons=true&theme=dark&locale=en"
+       alt="GitHub Stats" />
 </p>
