@@ -4,10 +4,6 @@
   <strong><code>Interested in Backend Development</code></strong>
 </p>
 
-<p align="center">
-  <strong><code>I’m currently learning Java</code></strong>
-</p>
-
 <h3 align="center">
   I’m currently studying Computer Science at the Federal University of Alfenas (5th semester).
 </h3>
