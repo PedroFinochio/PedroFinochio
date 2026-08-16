@@ -5,7 +5,7 @@
 </p>
 
 <h3 align="center">
-  I’m currently studying Computer Science at the Federal University of Alfenas (5th semester).
+  I’m currently studying Computer Science at the Federal University of Alfenas (6th semester).
 </h3>
 
 <h3 align="left">Connect with me:</h3>
